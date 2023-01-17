@@ -61,10 +61,10 @@ Si el resultado es parecido al de la imagen todo esta bien
 
 - A continuación ejecutamos el siguiente 
 ```
-ssh-add~/.ssh/name_ssh_key 👈 cambiar por el nombre que colocaste a tu llave ssh
+ssh-add ~/.ssh/name_ssh_key 👈 cambiar por el nombre que colocaste a tu llave ssh
 
 Ejemplo:
-ssh-add~/.ssh/id_rsa_personal
+ssh-add ~/.ssh/id_rsa_personal
 ```
 - Nos solicitara la contraseña que colocamos y en la llave, con este paso agregamos la llave ssh privada a nuestra computadora.
 
